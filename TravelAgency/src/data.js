@@ -1,0 +1,93 @@
+export const data = [
+    {
+        id: 1,
+        title: "Oasis Hotel",
+        description: "Discover the Luxurious Oasis Hotel, a perfect blend of traditional Egyptian charm and modern comfort. Located in the heart of Cairo, our hotel offers stunning views of the Great Pyramids and easy access to the city's main attractions.",
+        longDescription: "The Oasis Hotel offers guests a unique blend of luxury and tradition. Guests can enjoy spacious rooms with stunning views of the pyramids, indulge in gourmet dining at our on-site restaurants, and relax by the pool. The hotel also provides easy access to Cairo's bustling city life, with shopping, dining, and cultural attractions just steps away.",
+        price: 230,
+        coverImg: "oasis.jpg",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png",],
+        rating: 4.5,
+        country: "Egypt",
+        sells: 250,
+        url: "oasis-hotel"
+    },
+    {
+        id: 2,
+        title: "Costa del Sol Beach Resort",
+        description: "Relax and unwind at the Costa del Sol Beach Resort. Located on the stunning coast of Spain, this resort features spacious rooms, a variety of dining options, and easy access to beautiful beaches.",
+        longDescription: "At Costa del Sol Beach Resort, guests can experience the ultimate beach vacation. The resort boasts elegant rooms with ocean views, multiple dining options offering local and international cuisine, and a range of activities from water sports to spa treatments. The pristine beaches and vibrant nightlife of the Costa del Sol are just minutes away.",
+        price: 280,
+        coverImg: "costa_del_sol.png",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.6,
+        country: "Spain",
+        sells: 170,
+        url: "costa-del-sol-beach-resort"
+    },
+    {
+        id: 3,
+        title: "Sultan's Palace Hotel",
+        description: "Step into a world of opulence at the Sultan's Palace Hotel. Nestled in the heart of Istanbul, this hotel combines rich history with contemporary elegance, offering a truly unforgettable stay.",
+        longDescription: "Sultan's Palace Hotel is a haven of luxury in the heart of Istanbul. The hotel features beautifully decorated rooms with historic charm, a rooftop terrace with panoramic views of the city, and exquisite dining options. Guests can explore nearby historic sites, shop at local markets, and experience the vibrant culture of Istanbul.",
+        price: 320,
+        coverImg: "sultans_palace.png",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.9,
+        country: "Turkey",
+        sells: 220,
+        url: "sultans-palace-hotel"
+    },
+    {
+        id: 4,
+        title: "Madrid City Hotel",
+        description: "Discover the vibrant culture and rich history of Spain at the Madrid City Hotel. Situated in the heart of Madrid, this hotel offers comfortable accommodations and is just steps away from the city's main attractions.",
+        longDescription: "Madrid City Hotel offers guests a comfortable and convenient stay in the heart of Spain's capital. The hotel features modern rooms, a rooftop bar with city views, and a fitness center. Guests can easily explore Madrid's famous museums, parks, and culinary delights, all within walking distance from the hotel.",
+        price: 260,
+        coverImg: "madrid_city.png",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.5,
+        country: "Spain",
+        sells: 190,
+        url: "madrit-city-hotel"
+    },
+    {
+        id: 5,
+        title: "Blue Lagoon Resort",
+        description: "Immerse yourself in the tranquility of the Blue Lagoon Resort. Located on the beautiful Turkish Riviera, this resort offers pristine beaches, luxurious accommodations, and exceptional service.",
+        longDescription: "Blue Lagoon Resort is the perfect getaway for those seeking relaxation and luxury. The resort offers spacious rooms with stunning sea views, a variety of dining options, and a full-service spa. Guests can enjoy activities such as snorkeling, kayaking, and beach yoga, or simply relax by the lagoon-style pool.",
+        price: 300,
+        coverImg: "blue_lagoon.png",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.7,
+        country: "Turkey",
+        sells: 180,
+        url: "blue-lagoon-resort"
+    },
+    {
+        id: 6,
+        title: "Nile Palace Hotel",
+        description: "Experience the grandeur of the Nile Palace Hotel, where ancient history meets modern luxury. Situated on the banks of the Nile River, this hotel offers breathtaking views and a unique cultural experience.",
+        longDescription: "Nile Palace Hotel provides a unique blend of ancient history and modern luxury. Guests can enjoy luxurious rooms with Nile views, dine at gourmet restaurants, and relax at the rooftop pool. The hotel is ideally located for exploring Egypt's ancient wonders, including the nearby temples and historic sites.",
+        price: 250,
+        coverImg: "nile_palace.png",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.8,
+        country: "Egypt",
+        sells: 200,
+        url: "nile-palace-hotel"
+    },
+    {
+        id: 7,
+        title: "Venetian Dreams Hotel",
+        description: "Experience the charm and romance of Venice at the Venetian Dreams Hotel. Located along the Grand Canal, this hotel offers elegant rooms, gondola rides, and easy access to Venice's famous attractions.",
+        longDescription: "Venetian Dreams Hotel offers a romantic and luxurious stay in the heart of Venice. The hotel features beautifully decorated rooms with canal views, a private dock for gondola rides, and fine dining options. Guests can explore the city's historic landmarks, enjoy world-class shopping, and experience the unique charm of Venice.",
+        price: 550,
+        coverImg: "oasis.jpg",
+        additionalImgs: ["oasis.jpg", "costa_del_sol.png", "sultans_palace.png"],
+        rating: 4.6,
+        country: "Italy",
+        sells: 199,
+        url: "venetian-dreams-hotel"
+    }
+];
